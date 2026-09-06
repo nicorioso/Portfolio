@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1QC5EJujzeE=",
+  "success": true,
+  "projectFilePath": "/home/nicorioso/Projects/Portafolio/Portafolio/Portafolio.csproj",
+  "expectedPackageFiles": [
+    "/home/nicorioso/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.11/microsoft.aspnetcore.app.internal.assets.10.0.11.nupkg.sha512",
+    "/home/nicorioso/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
